@@ -1,4 +1,3 @@
-> Kotlin Enthuasist
-> Javascript hater
+> Kotlin Enthuasist; Javascript hater
 
 JavaScript users, DO NOT INTERACT!!
